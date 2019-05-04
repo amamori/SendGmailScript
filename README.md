@@ -10,7 +10,6 @@ SendGmailScript in python
 
 1. `config.py` file create.
 1. `config.py` write it.
-
 ```
 from_email = "xxxxx@gmail.com"
 to_email = "xxxxx@gmail.com"
@@ -19,4 +18,4 @@ username = "xxxxx@gmail.com"
 password = "xxxxx"
 ```
 
-1. `python text_mail.py` or `python multipart_mail.py` 
+3. `python text_mail.py` or `python multipart_mail.py` 
